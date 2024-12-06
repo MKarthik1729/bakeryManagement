@@ -1,0 +1,2 @@
+1. Libraries Installled
+    --pip install mysql-connector-python bcrypt
